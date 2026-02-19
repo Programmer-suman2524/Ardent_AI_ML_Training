@@ -162,5 +162,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 *Your Name*
-- GitHub: [@your-Suman](https://github.com/programmer-Suman)
+- GitHub: [@Suman](https://github.com/programmer-Suman)
 - LinkedIn: [your-linkedin](https://linkedin.com/in/programmer-Suman)
